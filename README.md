@@ -9,7 +9,7 @@ If not it makes a copy of itsself in the startupfolder.
 If the file is present in the startup folder it opens the well known YouTube video ;-)
 
 ## Can i convert the batch to a exe?
-Yes you can via [this link](https://www.majorgeeks.com/files/details/bat_to_exe_converter.html)
+Yes you can, via [this link](https://www.majorgeeks.com/files/details/bat_to_exe_converter.html)
 Just import the script.bat from the repo.
 
 ## Is there a exe version of the bat file?
