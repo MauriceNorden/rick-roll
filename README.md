@@ -1,7 +1,7 @@
 # rick-roll
 A simple batch script for rick-rolling
 
-##FAQ
+## FAQ
 
 ## How does it work?
 The script first checks if the file is present in the widows startup folder.
