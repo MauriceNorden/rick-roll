@@ -17,4 +17,4 @@ Just import the script.bat from the repo.
 Yes, you can find the exe in the release tab.
 Then download the exe and execute it.
 
-##If you cant find the awser to your question, please make a ticket in the Issues tab.
+## If you cant find the awser to your question, please make a ticket in the Issues tab.
