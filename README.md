@@ -17,7 +17,7 @@ Just import the script.bat from the repo.
 Yes, you can find the exe in the release tab.
 Then download the exe and execute it.
 
-##I can't read code or a README.md, how do i get this off my computer
+## I can't read code or a README.md, how do i get this off my computer
 
 It's very easy, just open this folder``%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\`` and look for ``script.bat`` or ``rickroll.exe``
 !!Don't open a ticket!!
